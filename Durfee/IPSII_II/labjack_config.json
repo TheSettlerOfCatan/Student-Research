@@ -1,0 +1,19 @@
+{
+    "chNames": [
+        "AIN0",
+        "AIN1",
+        "AIN2",
+        "AIN3"
+    ],
+    "chRange": [
+        10, 
+        10, 
+        10, 
+        10
+    ], 
+    "scanRate": 2000, 
+    "_comment":"scanRes index = ? - 3-7000, 4:3000",
+    "scanRes": 4, 
+    "scanTime": 0.25, 
+    "settlingTime": 0
+}
